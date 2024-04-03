@@ -40,8 +40,6 @@ Step 4 : Test for the XOR patterns.
 ## Program:
 ```
 import numpy as np
-import pandas as pd
-import io
 import matplotlib.pyplot as plt
 
 x=np.array([[0,0,1,1],[0,1,0,1]])
